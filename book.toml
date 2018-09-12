@@ -1,0 +1,5 @@
+[book]
+authors = ["neonphog"]
+multilingual = false
+src = "src"
+title = "The MoSocket Book"
